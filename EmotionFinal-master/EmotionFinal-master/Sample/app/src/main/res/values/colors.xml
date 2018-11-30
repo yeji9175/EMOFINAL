@@ -1,0 +1,16 @@
+<!-- Copyright (c) Microsoft. All rights reserved. -->
+
+<resources>
+    <color name="colorPrimary">#ffe699</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#fdb94c</color>
+    <color name="colorYellow">#fdb94c</color>
+
+    <color name="teal_100">#b2dfdb</color> <!-- Use with black text -->
+    <color name="teal_500">#009688</color> <!-- Use with white text -->
+
+
+    <color name="button_pressed_background">#66B2FF</color>
+    <color name="button_enabled_background">#3399FF</color>
+    <color name="button_disabled_background">#C0C0C0</color>
+</resources>
